@@ -53,4 +53,3 @@ Done!
 ```
 
 The output files (`image1.txt`, `image2.txt`, etc.) will contain a unique set of tags merged from the "Character tags" and general tags, ensuring no duplicates and reflecting the enhanced capabilities of the script.
-```
